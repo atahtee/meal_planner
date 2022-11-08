@@ -1,3 +1,6 @@
+Meal Planner autoselects a meal for a user after they have chosen the number of calories that they would love to take.
+
+
 # mealplanner
 
 A new Flutter project.
