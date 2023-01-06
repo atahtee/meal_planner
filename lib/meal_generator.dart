@@ -17,7 +17,7 @@ class _MealGeneratorState extends State<MealGenerator> {
     '2 meals',
     '3 meals',
     '4 meals',
-    '5 meals',
+    '5 meal',
     '6 meals'
   ];
   Object selected = '4 meals';
