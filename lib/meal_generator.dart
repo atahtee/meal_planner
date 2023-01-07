@@ -14,7 +14,7 @@ class MealGenerator extends StatefulWidget {
 class _MealGeneratorState extends State<MealGenerator> {
   List<String> meals = [
     '1 meal',
-    '2 meals',
+    '2 meal',
     '3 meals',
     '4 meals',
     '5 meals',
